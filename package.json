@@ -1,0 +1,6 @@
+{
+  "name": "qiller-clone",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "dependencies": { "express": "*", "multer": "*", "archiver": "*" }
+}
